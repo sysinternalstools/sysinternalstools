@@ -11,6 +11,6 @@ Independent Windows administration and diagnostics reference for the Microsoft S
 ## Projects
 
 - [Sysinternals Suite download](https://github.com/sysinternalstools/sysinternals-suite-download)
-- [Sysinternals Suite landing page](https://sysinternalstools.github.io/sysinternals-site/)
+- [Sysinternals Suite landing page](https://sysinternalstools.github.io/)
 
 Microsoft Sysinternals and related product names belong to their respective owners. This independent profile is not affiliated with or endorsed by Microsoft.
